@@ -1,0 +1,50 @@
+{
+  "projects": {
+    "deps-html": {
+      "description": "get/replace the external dependencies of an HTML document",
+      "maintainer": "jongleberry",
+      "node": "0.8"
+    },
+    "deps-parse": {
+      "description": "parse dependencies of JS, HTML, and CSS files with caching",
+      "maintainer": "jongleberry",
+      "node": "0.10"
+    },
+    "deps-walk": {
+      "description": "recursively walk the dependencies of files",
+      "maintainer": "jongleberry",
+      "node": "0.11"
+    },
+    "offset-source-map": {
+      "description": "offset the lines of a source map",
+      "maintainer": "jongleberry",
+      "node": "0.10"
+    },
+    "postcss-parse-dependencies": {
+      "node": "0.10",
+      "description": "parse dependencies of CSS",
+      "maintainer": "jongleberry"
+    },
+    "postcss-rename-dependencies": {
+      "node": "0.10",
+      "description": "rename @import and url() dependencies",
+      "maintainer": "jongleberry"
+    },
+    "postcss-rm-imports": {
+      "node": "0.10",
+      "description": "remove or comment out @import statements",
+      "maintainer": "jongleberry"
+    },
+    "rewrite-js-dependencies": {
+      "node": "0.8",
+      "description": "Rewrite JS Dependencies",
+      "maintainer": "jongleberry"
+    }
+  },
+  "maintainers": {
+    "jongleberry": {
+      "packages": 436,
+      "avatar": "https://secure.gravatar.com/avatar/6e33cc0412b61cc01daac23c8989003c?s=50&d=retro"
+    }
+  }
+}

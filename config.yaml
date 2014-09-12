@@ -21,6 +21,7 @@ projects:
  - postcss-rename-dependencies
  - postcss-rm-imports
  - offset-source-map
+ - apply-source-map
 
 # list of maintainers, this won't be sorted
 maintainers:
@@ -30,6 +31,10 @@ maintainers:
    twitter: jongleberry
    gittip:  jonathanong
    email:   me@jongleberry.com
+
+   # if gravatar is attached to an email different from specified above,
+   # add md5 of it here:
+   avatar:  6e33cc0412b61cc01daac23c8989003c
 
 # this determines what info will be fetched with `make db`;
 # you can comment out stuff to reduce number of http requests

@@ -40,4 +40,3 @@ db.json:
    - maintainer  # maintainer npm account (= _npmUser of last published ver)
   maintainers:
    - packages    # amount of packages this npm user has
-   - avatar      # gravatar displayed on npm website

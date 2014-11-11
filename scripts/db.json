@@ -28,6 +28,11 @@
       "maintainer": "jongleberry",
       "node": "0.11"
     },
+    "mnfy": {
+      "description": "minify HTML/CSS/JS in a child process with caching",
+      "maintainer": "jongleberry",
+      "node": "0.10"
+    },
     "offset-source-map": {
       "description": "offset the lines of a source map",
       "maintainer": "jongleberry",

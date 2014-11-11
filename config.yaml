@@ -22,6 +22,7 @@ projects:
  - postcss-rm-imports
  - offset-source-map
  - apply-source-map
+ - mnfy
 
 # list of maintainers, this won't be sorted
 maintainers:

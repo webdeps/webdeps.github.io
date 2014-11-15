@@ -38,6 +38,11 @@
       "maintainer": "jongleberry",
       "node": "0.10"
     },
+    "parse5-utils": {
+      "description": "Low-level parse5 node manipulation utilities.",
+      "maintainer": "jongleberry",
+      "node": "0.10"
+    },
     "postcss-parse-dependencies": {
       "description": "parse dependencies of CSS",
       "maintainer": "jongleberry",

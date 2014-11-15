@@ -23,6 +23,7 @@ projects:
  - offset-source-map
  - apply-source-map
  - mnfy
+ - parse5-utils
 
 # list of maintainers, this won't be sorted
 maintainers:

@@ -21,9 +21,9 @@ projects:
  - postcss-rename-dependencies
  - postcss-rm-imports
  - offset-source-map
- - apply-source-map
  - mnfy
  - parse5-utils
+ - virtual-file
 
 # list of maintainers, this won't be sorted
 maintainers:

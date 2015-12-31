@@ -12,8 +12,8 @@
   "license": "MIT",
   "repository": "repo-utils/badgeboard",
   "devDependencies": {
-    "co": "3",
-    "gnode": "0.0.8",
+    "co": "4.6.0",
+    "gnode": "0.1.1",
     "jade": "1",
     "js-yaml": "3",
     "request": "2"

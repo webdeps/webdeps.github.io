@@ -15,7 +15,7 @@
     "co": "3",
     "gnode": "0.0.8",
     "jade": "1",
-    "js-yaml": "3",
+    "js-yaml": "3.5.2",
     "request": "2"
   },
   "scripts": {

@@ -16,7 +16,7 @@
     "gnode": "0.0.8",
     "jade": "1",
     "js-yaml": "3",
-    "request": "2"
+    "request": "2.68.0"
   },
   "scripts": {
     "build": "node src/build.js",
